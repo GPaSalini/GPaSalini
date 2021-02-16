@@ -30,6 +30,6 @@ Poseo conocimiento de las siguientes tecnologías:
 * Single Board Computers (Raspberry 3B+ y 4, Nvidia Jetson Nano)
 * Microcontroladores (ESP8266, Arduino, STM32F4 y STM32F7)
 
-<p align="center">
+<p align="right">
     <a href="https://www.linkedin.com/in/giordano-salini-irribarra-1a8481206/"><img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=blue"></a>
 </p>
